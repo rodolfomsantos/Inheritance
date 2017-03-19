@@ -9,6 +9,8 @@ public class Player extends GameObject{
 		
 	}
 
-	
+	public void someMethod(){
+		
+	}
 	
 }
